@@ -1,4 +1,4 @@
-# realize-Promise-A-
+# realize-Promise-Aplus
 实现Promise/A+规范
 
 # Promise/A+规范译文
